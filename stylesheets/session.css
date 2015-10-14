@@ -1,0 +1,32 @@
+	body {
+		font-family: tahoma;
+		text-align: left;
+		background-image: url(../images/background.jpg);
+		background-size: cover;
+		background-repeat: repeat;
+		background-attachment: fixed;
+	}
+
+
+      	header { 
+        	text-align: center;
+     	}
+     
+
+      	nav {
+        	text-align: center;
+      	}
+	
+	p {
+		text-align: center;
+	}
+
+	footer {
+		font-size: 10px;
+		position:fixed;
+		margin-left: -10px;
+		width: 105%;
+		background-color: #000000;
+		color: #FFFFFF;
+    		bottom:0;
+	}
