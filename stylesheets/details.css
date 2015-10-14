@@ -1,4 +1,4 @@
-	body {
+      	body {
 		background-image: url(../images/background.jpg);
 		background-size: cover;
 		background-repeat: repeat;
@@ -19,7 +19,7 @@
 
 
 	table, th, td {
-		width: 40%;
+		width: 30%;
 		margin-left:auto;
     		margin-right:auto;
 		font-size: 15px;
@@ -31,7 +31,6 @@
 
 	footer {
 		font-size: 10px;
-
 		position:fixed;
 		margin-left: -10px;
 		width: 105%;
@@ -40,7 +39,7 @@
     		bottom:0;
 	}
 
-	a.button {
+  a.button {
     -webkit-appearance: button;
     -moz-appearance: button;
     appearance: button;
